@@ -53,6 +53,6 @@ From writing exploits to creating full-stack apps — I mix **security + develop
 ---
 
 ## 📫 Contact
-- Email: yourmail@example.com  
-- Instagram / LinkedIn / Portfolio  
+- Email: muhammadadnanthayyil@gmail.com  
+- __adnan___o / LinkedIn / Portfolio  
 
