@@ -41,7 +41,7 @@ I’m a cybersecurity-focused developer who loves breaking and building systems.
 ---
 
 ## 🔗 Portfolio & Projects
-👉 **Portfolio:** [Click Here](muhammadadnant.netlify.app)  
+👉 **Portfolio:** [Click Here](https://muhammadadnant.netlify.app)  
 👉 Explore more in my repos 👇  
 
 ---
