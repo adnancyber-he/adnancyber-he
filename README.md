@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Adnan
 
-### RedTeam Certified Penetration Tester | Bug Bounty Hunter
+### RedTeam Certified Penetration Tester | Web App & Network Security | Bug Bounty Hunter
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://muhammadadnant.vercel.app/)
 [![Certified](https://img.shields.io/badge/RedTeam-Certified%20Pentester-red)]()
