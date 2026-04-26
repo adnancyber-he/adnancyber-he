@@ -1,70 +1,58 @@
 # 👋 Hi, I'm Muhammad Adnan
 
-### Certified Penetration Tester | Bug Bounty Hunter | 18 Years Old
+### RedTeam Certified Penetration Tester | Bug Bounty Hunter
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://muhammadadnant.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/muhammad-adnan-3b2aab287)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adnancyber90@gmail.com)
+[![Certified](https://img.shields.io/badge/RedTeam-Certified%20Pentester-red)]()
 
 ---
 
-## 🔐 What I Do
+## 🔐 About Me
 
-I break into web applications and APIs to find critical vulnerabilities before attackers do. 5+ years of hands-on security research, 1+ year professional bug bounty hunting, and freelance penetration testing for businesses.
-
-**Current Focus:** Web Application Pentesting | API Security | Vulnerability Research
+18-year-old penetration tester with hands-on expertise in network, web application, cloud, and Active Directory security. I help businesses find and fix critical vulnerabilities before attackers exploit them.
 
 ---
 
-## 🏆 Credentials
+## 🏅 Certifications
 
-- 🏅 **Certified:** [Your Actual Cert Name Here]
-- 🐛 **Bug Bounty:** Active hunter on HackerOne, Bugcrowd
-- 🔒 **Freelance:** Security assessments for [X] clients
-- 📺 **Educator:** Cybersecurity tutorials on YouTube (HackSage)
-- ⚡ **5+ Years** self-taught offensive security
+### RedTeam Certified Penetration Tester
+**Issued:** February 2025 | **ID:** RTXSTU1342012633
 
----
-
-## 🧰 Primary Toolkit
-
-**Daily Drivers (What I Actually Use):**
-
-| Purpose | Tools |
-|---------|-------|
-| **Web App Testing** | Burp Suite, OWASP ZAP, Manual Testing |
-| **Network Pentesting** | Nmap, Wireshark, Metasploit |
-| **Scripting & Automation** | Python, Bash, JavaScript |
-| **OS & Infrastructure** | Kali Linux, Windows, Docker |
-| **Version Control** | Git, GitHub |
-
-**Also Familiar With:** C++, PHP, SQL, React, Node.js
+**Domains Covered:**
+- Network & Advanced Web Application Pentesting
+- Active Directory Attacks & Defense
+- Cloud & Docker Security
+- Thick-Client Pentesting
+- Wireless Security
+- Vulnerability Management & VAPT Report Writing
 
 ---
 
-## 📌 Featured Projects
+## 🧰 Core Expertise
 
-### 🔐 Security Tools
-- **[Pentest_RAG]** - AI-powered penetration testing knowledge base
-- **[Cybersecurity Dashboard]** - Real-time threat monitoring interface
-- **[Privacy-Shield]** - PHP privacy protection framework
-
-### 🛠️ Development
-- **[UniversalOS]** - Experimental operating system concept
-- **[Web Apps]** - Full-stack development projects
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnancyber-he&show_icons=true&theme=dark)
+| Domain | Skills |
+|--------|--------|
+| **Web Application** | OWASP Top 10, API Testing, Burp Suite, Manual Exploitation |
+| **Network Security** | Internal/External Pentesting, Nmap, Metasploit, Wireshark |
+| **Active Directory** | Enumeration, Privilege Escalation, Lateral Movement |
+| **Cloud Security** | AWS, Docker Security Assessment |
+| **Scripting** | Python, Bash, JavaScript |
 
 ---
 
-## 📫 Let's Work Together
+## 🔨 Featured Projects
+
+- **[Pentest_RAG]** - AI-assisted penetration testing knowledge base
+- **[Cybersecurity Dashboard]** - Real-time security monitoring tool
+- **[Privacy-Shield]** - Privacy protection framework
+- **[UniversalOS]** - Operating system architecture research
+
+---
+
+## 📫 Contact
 
 - 🌐 **Portfolio:** [muhammadadnant.vercel.app](https://muhammadadnant.vercel.app/)
 - 💼 **LinkedIn:** [Muhammad Adnan](https://linkedin.com/in/muhammad-adnan-3b2aab287)
 - 📧 **Email:** adnancyber90@gmail.com
 
-*Available for freelance penetration testing, security audits, and consulting.*
+*Available for freelance penetration testing and security consulting.*
