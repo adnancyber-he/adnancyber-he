@@ -16,7 +16,7 @@
 ## 🏅 Certifications
 
 ### RedTeam Certified Penetration Tester
-**Issued:** February 2025 | **ID:** RTXSTU1342012633
+**Issued:** February 2025
 
 **Domains Covered:**
 - Network & Advanced Web Application Pentesting
