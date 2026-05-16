@@ -9,7 +9,7 @@
 
 ## 🔐 About Me
 
-18-year-old penetration tester with hands-on expertise in network, web application, cloud, and Active Directory security. I help businesses find and fix critical vulnerabilities before attackers exploit them.
+19-year-old penetration tester with hands-on expertise in network, web application, cloud, and Active Directory security. I help businesses find and fix critical vulnerabilities before attackers exploit them.
 
 ---
 
