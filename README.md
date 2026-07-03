@@ -1,58 +1,54 @@
-# 👋 Hi, I'm Muhammad Adnan
+# Hi, I'm Muhammad Adnan 👋
 
-### RedTeam Certified Penetration Tester | Web App & Network Security | Bug Bounty Hunter
+**Penetration Tester | Red Team Enthusiast | Web App & Network Security**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://muhammadadnant.vercel.app/)
-[![Certified](https://img.shields.io/badge/RedTeam-Certified%20Pentester-red)]()
+I break things on purpose — network, web app, cloud, and Active Directory environments — so real attackers can't. Currently building toward OSCP, with hands-on lab work in BlackArch Linux and active HTB/THM practice.
 
----
-
-## 🔐 About Me
-
-penetration tester with hands-on expertise in network, web application, cloud, and Active Directory security. I help businesses find and fix critical vulnerabilities before attackers exploit them.
+[Portfolio](#) · [LinkedIn](#) · [Contact](#)
 
 ---
 
-## 🏅 Certifications
+## 🔍 What I Do
 
-### RedTeam Certified Penetration Tester
-**Issued:** February 2025
-
-**Domains Covered:**
-- Network & Advanced Web Application Pentesting
-- Active Directory Attacks & Defense
-- Cloud & Docker Security
-- Thick-Client Pentesting
-- Wireless Security
-- Vulnerability Management & VAPT Report Writing
+I focus on offensive security: identifying and exploiting misconfigurations and vulnerabilities across networks, web applications, and Active Directory environments, then documenting findings the way a real engagement report would — reproducible, prioritized, and actionable.
 
 ---
 
-## 🧰 Core Expertise
+## 🛠️ Core Skills
 
-| Domain | Skills |
-|--------|--------|
-| **Web Application** | OWASP Top 10, API Testing, Burp Suite, Manual Exploitation |
-| **Network Security** | Internal/External Pentesting, Nmap, Metasploit, Wireshark |
-| **Active Directory** | Enumeration, Privilege Escalation, Lateral Movement |
-| **Cloud Security** | AWS, Docker Security Assessment |
-| **Scripting** | Python, Bash, JavaScript |
+| Category | Tools / Techniques |
+|---|---|
+| Recon & OSINT | Nmap, Amass, theHarvester, Shodan |
+| Web App Testing | Burp Suite, OWASP Top 10, SQLmap |
+| Exploitation | Metasploit, manual exploitation, privilege escalation |
+| Active Directory | BloodHound, Kerberoasting, lateral movement |
+| Reporting | MITRE ATT&CK-mapped findings, client-ready writeups |
 
----
-
-## 🔨 Featured Projects
-
-- **[Pentest_RAG]** - AI-assisted penetration testing knowledge base
-- **[Cybersecurity Dashboard]** - Real-time security monitoring tool
-- **[Privacy-Shield]** - Privacy protection framework
-- **[UniversalOS]** - Operating system architecture research
+*(Adjust this table to only list tools you can speak to confidently in an interview — a shorter, defensible list beats a padded one.)*
 
 ---
 
-## 📫 Contact
+## 🚀 Featured Projects
 
-- 🌐 **Portfolio:** [muhammadadnant.vercel.app](https://muhammadadnant.vercel.app/)
-- 💼 **LinkedIn:** [Muhammad Adnan](https://linkedin.com/in/muhammad-adnan-3b2aab287)
-- 📧 **Email:** adnancyber90@gmail.com
+### [AutoReconX](#) — Automated Reconnaissance Framework
+One-line outcome: *what it finds, how it's faster/better than manual recon, and what it demonstrates about your engineering skill.*
 
-*Available for freelance penetration testing and security consulting.*
+### [Pentest_RAG](#) — AI-Assisted Pentest Knowledge Tool
+One-line outcome: *what problem it solves for a pentester's workflow, and what it demonstrates about your technical range.*
+
+*(Add 1–2 more here once we've reviewed them — pin only your strongest 4.)*
+
+---
+
+## 📜 Certifications
+
+- *[Certification name] — [Issuing body], [Month Year]* — link if verifiable
+- *(If "RedTeam Certified Penetration Tester" isn't from a recognized issuing body, consider reframing it as a self-directed training program or course completion rather than a "certification" — recruiters check.)*
+
+---
+
+## 📫 Reach Me
+
+- Email: adnamworkmail@gmail.com
+
+*(Keep personal social links like Instagram off a professional README — separate the two identities.)*
