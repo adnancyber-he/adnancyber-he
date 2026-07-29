@@ -4,7 +4,7 @@
 
 I break things on purpose — network, web app, cloud, and Active Directory environments — so real attackers can't. Currently building toward OSCP, with hands-on lab work in BlackArch Linux and active HTB/THM practice.
 
-[Portfolio](#) · [LinkedIn](#) · [Contact](#)
+[Portfolio](https://muhammadadnant.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-adnan-3b2aab287) · [Contact](adnanworkmail88@gmail.com)
 
 ---
 
@@ -36,19 +36,11 @@ One-line outcome: *what it finds, how it's faster/better than manual recon, and 
 ### [Pentest_RAG](#) — AI-Assisted Pentest Knowledge Tool
 One-line outcome: *what problem it solves for a pentester's workflow, and what it demonstrates about your technical range.*
 
-*(Add 1–2 more here once we've reviewed them — pin only your strongest 4.)*
-
----
-
-## 📜 Certifications
-
-- *[Certification name] — [Issuing body], [Month Year]* — link if verifiable
-- *(If "RedTeam Certified Penetration Tester" isn't from a recognized issuing body, consider reframing it as a self-directed training program or course completion rather than a "certification" — recruiters check.)*
 
 ---
 
 ## 📫 Reach Me
 
-- Email: adnamworkmail@gmail.com
+- Email: adnamworkmail88@gmail.com
 
 *(Keep personal social links like Instagram off a professional README — separate the two identities.)*
