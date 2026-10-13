@@ -43,4 +43,3 @@ One-line outcome: *what problem it solves for a pentester's workflow, and what i
 
 - Email: adnamworkmail88@gmail.com
 
-*(Keep personal social links like Instagram off a professional README — separate the two identities.)*
