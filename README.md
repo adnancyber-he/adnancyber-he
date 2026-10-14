@@ -1,45 +1,62 @@
 # Hi, I'm Muhammad Adnan 👋
 
-**Penetration Tester | Red Team Enthusiast | Web App & Network Security**
+**Penetration Tester | Web & API Security | Active Directory | LLM Security**
 
-I break things on purpose — network, web app, cloud, and Active Directory environments — so real attackers can't. Currently building toward OSCP, with hands-on lab work in BlackArch Linux and active HTB/THM practice.
+I break things on purpose, across web applications, APIs, networks and Active Directory environments, so real attackers can't. I document findings the way a real engagement report would: reproducible, prioritized and actionable. Currently working toward OSCP, with hands-on practice on BlackArch Linux, HackTheBox and TryHackMe.
 
-[Portfolio](https://muhammadadnant.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-adnan-3b2aab287) · [Contact](adnanworkmail88@gmail.com)
+[Portfolio](https://muhammadadnant.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-adnan-3b2aab287) · [TryHackMe](https://www.tryhackme.com/p/adnancyber) · [Medium](https://adnancyber.medium.com/) · [Email](mailto:adnanworkmail88@gmail.com)
 
 ---
 
 ## 🔍 What I Do
 
-I focus on offensive security: identifying and exploiting misconfigurations and vulnerabilities across networks, web applications, and Active Directory environments, then documenting findings the way a real engagement report would — reproducible, prioritized, and actionable.
+- Web application and API penetration testing against the OWASP Top 10 (XSS, SQL injection, IDOR and more)
+- Network and Active Directory testing
+- Building security tooling in Python to automate repetitive testing work
+- Freelance and bug bounty work since 2024
 
 ---
 
 ## 🛠️ Core Skills
 
-| Category | Tools / Techniques |
-|---|---|
-| Recon & OSINT | Nmap, Amass, theHarvester, Shodan |
-| Web App Testing | Burp Suite, OWASP Top 10, SQLmap |
-| Exploitation | Metasploit, manual exploitation, privilege escalation |
-| Active Directory | BloodHound, Kerberoasting, lateral movement |
-| Reporting | MITRE ATT&CK-mapped findings, client-ready writeups |
-
-*(Adjust this table to only list tools you can speak to confidently in an interview — a shorter, defensible list beats a padded one.)*
+| Category         | Tools / Techniques                                    |
+| ---------------- | ----------------------------------------------------- |
+| Recon & OSINT    | Nmap, Amass, theHarvester, Shodan                     |
+| Web App Testing  | Burp Suite, OWASP Top 10, SQLmap                      |
+| Exploitation     | Metasploit, manual exploitation, privilege escalation |
+| Active Directory | BloodHound, Kerberoasting, lateral movement           |
+| Languages        | Python, C, C++, C#, Go, Rust, Java, JavaScript, PHP   |
+| Reporting        | MITRE ATT&CK-mapped findings, clear written reports   |
 
 ---
 
 ## 🚀 Featured Projects
 
-### [AutoReconX](#) — Automated Reconnaissance Framework
-One-line outcome: *what it finds, how it's faster/better than manual recon, and what it demonstrates about your engineering skill.*
+### [AutoReconX](https://github.com/adnancyber-he/AutoReconX): Automated Reconnaissance Framework
+A Python recon framework that automates the repetitive steps of target enumeration, making recon faster and more repeatable than doing it by hand.
 
-### [Pentest_RAG](#) — AI-Assisted Pentest Knowledge Tool
-One-line outcome: *what problem it solves for a pentester's workflow, and what it demonstrates about your technical range.*
+### [Pentest_RAG](https://github.com/adnancyber-he/Pentest_RAG): AI-Assisted Pentest Knowledge Tool
+A Python project that applies retrieval-augmented generation (RAG) to pentesting, helping look up techniques and guidance faster during testing.
 
+### VAPT Scanner for Windows (in testing)
+A Windows desktop scanner that discovers installed applications and checks them for known vulnerabilities.
+
+### [cybersecurity_dashboard](https://github.com/adnancyber-he/cybersecurity_dashboard)
+A Python dashboard for security data and monitoring.
+
+---
+
+## 🎓 Certifications
+
+- Certified LLM Security Expert (CLLMSE), Red Team Leaders, Jul 2026
+- Certified Penetration Tester, RedTeam Hacker Academy, Nov 2024
 
 ---
 
 ## 📫 Reach Me
 
-- Email: adnamworkmail88@gmail.com
+- Email: adnanworkmail88@gmail.com
+- LinkedIn: [muhammad-adnan-3b2aab287](https://www.linkedin.com/in/muhammad-adnan-3b2aab287)
+- Portfolio: [muhammadadnant.vercel.app](https://muhammadadnant.vercel.app/)
 
+Open to VAPT, penetration testing and application security roles.
