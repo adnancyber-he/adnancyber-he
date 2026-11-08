@@ -59,12 +59,6 @@ Self-taught offensive security practitioner focused on web and network penetrati
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### GitHub Stats
-
-<p>
-  <img alt="GitHub stats" src="https://<your-project>.vercel.app/api?username=adnancyber-he&show_icons=true&theme=dark&hide_border=true" />
-  <img alt="Top languages" src="https://<your-project>.vercel.app/api/top-langs/?username=adnancyber-he&layout=compact&theme=dark&hide_border=true" />
-</p>
 ---
 
 > **Disclaimer:** All work is for authorized testing, research, and education only. Vulnerabilities are reported through responsible disclosure.
