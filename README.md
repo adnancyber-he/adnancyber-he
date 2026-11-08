@@ -27,13 +27,6 @@ Self-taught offensive security practitioner focused on web and network penetrati
 - **Detection Engineering:** Understanding attacker behavior to build better defenses
 - **Low-Level Systems:** C/C++ tooling, memory and process internals
 
-### Certifications
-
-| Certification | Issuer | Year | Status |
-|---|---|---|---|
-| Certified Penetration Tester (CPT v3) | RedTeam Hacker Academy | 2025 | Earned |
-| Certified LLM Security Expert (CLLMSE) | Red Team Leaders | 2026 | Earned |
-| OSCP | OffSec | | In progress |
 
 ### Featured Projects
 
