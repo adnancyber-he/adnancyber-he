@@ -61,10 +61,10 @@ Self-taught offensive security practitioner focused on web and network penetrati
 
 ### GitHub Stats
 
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnancyber-he&show_icons=true&theme=dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnancyber-he&layout=compact&theme=dark&hide_border=true)
-
+<p>
+  <img alt="GitHub stats" src="https://<your-project>.vercel.app/api?username=adnancyber-he&show_icons=true&theme=dark&hide_border=true" />
+  <img alt="Top languages" src="https://<your-project>.vercel.app/api/top-langs/?username=adnancyber-he&layout=compact&theme=dark&hide_border=true" />
+</p>
 ---
 
 > **Disclaimer:** All work is for authorized testing, research, and education only. Vulnerabilities are reported through responsible disclosure.
